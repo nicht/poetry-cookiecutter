@@ -1,0 +1,5 @@
+version: '3'
+
+services:
+  {{cookiecutter.project_slug}}:
+    container: {{cookiecutter.project_name}}
