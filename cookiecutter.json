@@ -17,6 +17,6 @@
     "GNU General Public License v3",
     "Not open source"
   ],
-  "repository": "https://github.com/nicht/poetry-cookiecutter",
+  "repository": "https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_slug}}",
   "homepage": "https://nicht.rocks"
 }
